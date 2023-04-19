@@ -2,12 +2,17 @@
 
 ### Exercícios de HTML, CSS e JavaScript
 
+:unlock: [Copy - Repository](git@github.com:Moises-Coimbra/trybe-exercises.git) :rocket:
+
+<div style="text-align:center">
 
 ```js 
 Exercises in the Trybe web-development-course
 ```
 
-Este repositório contém uma série de exercícios práticos de HTML, CSS e JavaScript, desenvolvidos para ajudar no aprendizado e aprimoramento dessas tecnologias. Cada pasta contém um exercício diferente, com instruções específicas sobre o que deve ser feito e os objetivos a serem alcançados.
+</div>
+
+Este repositório contém uma série de exercícios práticos de HTML, CSS e JavaScript, desenvolvidos para ajudar no aprendizado e aprimoramento dessas tecnologias. Cada branch contém um exercício diferente, com instruções específicas sobre o que deve ser feito e os objetivos a serem alcançados.
 
 Os exercícios estão organizados em níveis de dificuldade crescente, desde iniciante até avançado, e cada pasta contém um arquivo README.md com instruções detalhadas sobre o que deve ser feito em cada exercício.
 
