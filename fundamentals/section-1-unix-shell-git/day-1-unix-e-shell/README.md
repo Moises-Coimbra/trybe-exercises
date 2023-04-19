@@ -1,5 +1,7 @@
 # Exercícios :unlock: :rocket:
 
+***
+
  * 1 - Utilizando o terminal, aplique o comando de criação de diretórios que você aprendeu: crie um diretório chamado ```unix_tests``` e navegue até ele.
  * 2 - Crie um arquivo de texto com o nome ```trybe.txt```.
  * 3 - Crie uma cópia do arquivo ```trybe.txt``` com o nome ```trybe_backup.txt```.
@@ -14,5 +16,8 @@
  * 11 - Apague o diretório ```backup```.
  * 12 - Limpe o terminal.
 
+***
+
 De olho na dica 👀: Para os próximos exercícios, crie manualmente na parte gráfica do seu sistema operacional -Mouse- :mouse: um arquivo de texto chamado skills.txt com o conteúdo abaixo.
 
+***
