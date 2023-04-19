@@ -13,9 +13,10 @@ Os exercícios estão organizados em níveis de dificuldade crescente, desde ini
 
 Os tópicos abordados nos exercícios incluem:
 
-*  Estruturação de páginas HTML
-*  Estilização de páginas com CSS
-*  Manipulação do DOM com JavaScript
+*  Unix, Shell, Git e GitHub ```[ Dominando os processos de CLI ]```
+*  Estruturação de páginas ```HTML```
+*  Estilização de páginas com ```CSS```
+*  Manipulação do DOM com ```JavaScript```
 *  Criação de animações e efeitos visuais
 *  Integração com APIs e serviços web
 
