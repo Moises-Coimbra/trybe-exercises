@@ -14,5 +14,5 @@
  * 11 - Apague o diretório ```backup```.
  * 12 - Limpe o terminal.
 
-De olho na dica 👀: Para os próximos exercícios, crie manualmente :mouse: na parte gráfica do seu sistema operacional -Mouse- :mouse: um arquivo de texto chamado skills.txt com o conteúdo abaixo.
+De olho na dica 👀: Para os próximos exercícios, crie manualmente na parte gráfica do seu sistema operacional -Mouse- :mouse: um arquivo de texto chamado skills.txt com o conteúdo abaixo.
 
