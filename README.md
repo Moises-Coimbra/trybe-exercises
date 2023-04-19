@@ -1,5 +1,8 @@
 # Trybe-exercises [Activities]
 
+![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Moises-Coimbra/trybe-exercises)
+
+
 ### Exercícios de HTML, CSS e JavaScript
 
 :unlock: [Copy - Repository](git@github.com:Moises-Coimbra/trybe-exercises.git) :rocket:
